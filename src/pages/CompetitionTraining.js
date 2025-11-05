@@ -60,6 +60,12 @@ const CompetitionTraining = () => {
         </div>
       </section>
 
+      <section className="program-intro">
+        <p>
+          Our kids competition team is built on work ethic, discipline, and accountability. We’ve raised champions by following a proven system that develops athletes—from first tournament to gold medalist—through focused drilling, smart conditioning, and consistent coaching. In the real world we will there are no participation trophies. Winning matters, but growth matters more: we teach athletes to turn every match, win or lose into the next step forward. Because of our performance and our ethics on and off the mat, our team has earned sponsorships and collaborations with respected brands like REKT and Level Black. If you’re ready to commit, we’re ready to invest in you.
+        </p>
+      </section>
+
       <FAQ faqData={pageFaqs} title="Competition Training FAQs" />
     </div>
   );

@@ -32,6 +32,13 @@ const programsData = [
     alt: 'Fundamentals class'
   },
   {
+    title: 'Wrestling Program',
+    path: '/wrestling-program',
+    description: 'Build explosive takedowns, balance, and pressure.',
+    image: 'https://placehold.co/600x400?text=Wrestling+Program',
+    alt: 'Athletes practicing wrestling drills'
+  },
+  {
     title: 'Competition Training',
     path: '/competition-training',
     description: 'For athletes who want to test themselves on the mat.',

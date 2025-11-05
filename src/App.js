@@ -13,8 +13,10 @@ import HomeschoolProgram from './pages/HomeschoolProgram';
 import AdultProgram from './pages/AdultProgram';
 import FundamentalsProgram from './pages/FundamentalsProgram';
 import CompetitionTraining from './pages/CompetitionTraining';
+import WrestlingProgram from './pages/WrestlingProgram';
 import PrivateLessons from './pages/PrivateLessons';
 import Schedule from './pages/Schedule';
+import TrainingSchedule from './pages/TrainingSchedule';
 import Instructors from './pages/Instructors';
 import OurFacility from './pages/OurFacility';
 import AffiliateSchools from './pages/AffiliateSchools';
@@ -38,8 +40,10 @@ const AppLayout = () => {
           <Route path="/adult-program" element={<AdultProgram />} />
           <Route path="/fundamentals-program" element={<FundamentalsProgram />} />
           <Route path="/competition-training" element={<CompetitionTraining />} />
+          <Route path="/wrestling-program" element={<WrestlingProgram />} />
           <Route path="/private-lessons" element={<PrivateLessons />} />
           <Route path="/schedule" element={<Schedule />} />
+          <Route path="/training-schedule" element={<TrainingSchedule />} />
           <Route path="/instructors" element={<Instructors />} />
           <Route path="/facility" element={<OurFacility />} />
           <Route path="/affiliate-schools" element={<AffiliateSchools />} />
