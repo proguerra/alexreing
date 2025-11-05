@@ -19,6 +19,18 @@
   margin: 0 10px; /* Provides spacing between slides if multiple are shown */
 }
 
+.testimonial-rating {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 18px;
+}
+
+.testimonial-star {
+  color: #f7b500;
+  font-size: 18px;
+}
+
 .testimonial-quote {
   font-family: 'Georgia', 'Times New Roman', serif;
   font-style: italic;
@@ -68,6 +80,9 @@
   }
   .testimonial-card {
     padding: 30px;
+  }
+  .testimonial-rating {
+    margin-bottom: 14px;
   }
   .testimonial-quote {
     font-size: 18px;
