@@ -33,7 +33,7 @@ const OurFacilityPage = () => {
       </script>
       <h1 style={{ marginBottom: '20px' }}>Our Facility</h1>
       <p style={{ marginBottom: '40px', fontSize: '18px', lineHeight: '1.7' }}>
-        Our academy is equipped with high-quality mats, clean locker rooms, and a welcoming environment. Parents and students alike love the safe and professional setting. More than just a gym, Reign is a community-driven martial arts academy in Katy, TX.
+        Train on competition-quality mats inside a clean, modern facility in Katy, TX. Reign BJJ combines a premier Jiu-Jitsu academy with a full performance gym with expansive mat space, plus free weights, kettlebells, ropes and more all under one roof. Our spacious, well-kept layout supports safe drilling, live rounds, and strength &amp; conditioning. Whether you’re preparing for competition or complementing your Jiu-Jitsu with fitness, you’ll find the equipment, coaching, and environment to progress faster and roll with confidence.
       </p>
       <div style={{ display: 'flex', gap: '20px', justifyContent: 'center', flexWrap: 'wrap', marginBottom: '60px' }}>
         <img
